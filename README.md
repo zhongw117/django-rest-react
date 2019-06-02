@@ -8,4 +8,4 @@ CORS_ORIGIN_WHITELIST = [
 <img src='images/issue1_3000port.png' width="40%">
 
 <img src='images/django_page.png' width="40%">
-<img src='images/react_frontpage.png' width="40%">
+<img src='images/react_page.png' width="40%">

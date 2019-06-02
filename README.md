@@ -7,5 +7,9 @@ CORS_ORIGIN_WHITELIST = [
 
 <img src='images/issue1_3000port.png' width="60%">
 
+## Django API data
+
 <img src='images/django_page.png' width="60%">
+
+## React showing that data from django
 <img src='images/react_page.png' width="60%">
